@@ -34,7 +34,7 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-ALLOWED_HOSTS = ['8000-tylermorgan1-djangoblog-m6l6uhfsjoh.ws-eu104.gitpod.io', 'https://tyler-django-blog-ef156ac61a4b.herokuapp.com/']
+ALLOWED_HOSTS = ['8000-tylermorgan1-djangoblog-m6l6uhfsjoh.ws-eu104.gitpod.io', 'herokuapp.com']
 
 # Application definition
 
